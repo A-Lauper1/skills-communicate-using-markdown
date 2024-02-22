@@ -5,3 +5,6 @@
 ``` javascript
 var myVar = "Hi!";
 ```
+
+- [ ] water the plants
+- [x] walk the dog
